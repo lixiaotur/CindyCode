@@ -29,7 +29,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="median of two arrays.cpp">
+    <ClCompile Include="median_two_arrays.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
